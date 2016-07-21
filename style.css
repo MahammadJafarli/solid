@@ -1,0 +1,185 @@
+/* common classes */
+.textColor{
+	color: white;
+}
+.verticalSpace{
+	margin-bottom: 40px;
+}
+/* main classes */
+#main{
+background: ;
+height;
+}
+#main .mainColor{
+	background-color: #00b4f8;
+}
+#main .mainHeight{
+	height:100% ;
+}
+#main .container-fluid{
+	padding: 0px;
+}
+#main .navbar{
+	border-radius: 0px;
+}
+#main .navbar-inverse{
+	background-color: #36434f;
+	border:none;
+}
+#main 
+
+/* services classes */
+#services{
+background: ;
+height:;
+}
+#services .mainColor{
+	background-color:white;
+}
+#services .mainHeight{
+	height:100% ;
+}
+#services .container{
+	padding-top:70px;
+	padding-bottom:70px;
+}
+#services .btn{
+	background:#3a4352;
+	padding:5px;
+	border-radius:0;
+}
+#services div i{
+	color:#00b4f8;
+}
+
+ /* works classes */
+ #works{
+background:blue ;
+height:px ;
+}
+#works .mainColor{
+	background-color:white; 
+}
+#works .mainHeigh{
+	height:100% ;
+}
+#works .container-fluid{
+	padding: 0px;
+}
+#works div h3{
+	color:#374451;
+}
+#works .img img{
+	width: inherit;
+	height: inherit;
+}
+#works .colW{
+	width: 320px;
+	height: 190px;
+}
+
+/*about classes*/
+#about{
+background: ;
+height:;
+}
+#about .mainColor{
+	background-color:white;
+}
+#about .mainHeight{
+	height:100% ;
+}
+#about .container-fluid{
+	padding: 50px 0 50px 0;
+}
+#about div h4{
+	color:#374451;
+	margin-left: 37px;
+}
+#about .btn{
+	background:#3a4352;
+	padding:5px;
+	border-radius:0;
+}
+#about div li{
+	list-style-type: none;
+	padding-bottom: 7px;
+}
+
+
+
+/* comments classes */
+#comments{
+background:url(img/t-back.jpg) ;
+height: 350px;
+}
+#comments .mainColor{
+	background-color:;
+}
+#comments .mainHeight{
+	height:100% ;
+}
+#comments .container-fluid{
+	padding: 30px;
+}
+#comments div i{
+	margin-bottom:30px; 
+}
+#comments div p{
+	padding:10px 0 10px 0;
+}
+
+/* logo classes */
+#logo{
+background: ;
+height:300px ;
+}
+#logo .mainColor{
+	background-color: 
+}
+#logo .mainHeight{
+	height:100% ;
+}
+#logo .container-fluid{
+	padding: 0px;
+}
+
+#logo .contentImg img{
+	width: 100%;
+	height: 100%;
+}
+#logo .row h3{
+	padding: 20px 0 50px 0;
+}
+
+/* info classes */
+#info{
+background: ;
+height:300px ;
+}
+#info .mainColor{
+	background-color:#384452;
+}
+#info .mainHeight{
+	height:100% ;
+}
+#info .container-fluid{
+	padding: 0px;
+}
+#info .row h3{
+	color: white;
+	border-bottom: 2px solid white;
+	padding:30px 0 5px 0;
+}
+#info .row p{
+	color:#bec8d2;
+	padding-top: 30px;
+}
+#info .row i{
+	color:#bec8d2;
+	padding-top: 30px;
+	margin-right: 10px;
+}
+#info .row i:hover{
+	color:#00b3fe;
+}
